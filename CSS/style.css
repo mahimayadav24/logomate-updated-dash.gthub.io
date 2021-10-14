@@ -1898,3 +1898,15 @@ table {
     width: 25px;
     margin: 0px 8px;
 }
+
+@media screen and (max-width: 539px) {
+    .chart1 p {
+        font-size: calc(6pt + 00.15vw);
+    }
+    .ls-ml {
+        font-size: calc(6pt + 00.15vw);
+    }
+    .chart1 img {
+        width: 15px;
+    }
+}
