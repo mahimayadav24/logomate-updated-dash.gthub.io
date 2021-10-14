@@ -1856,6 +1856,10 @@ table {
     transition: .3s ease-in;
 }
 
+.st option {
+    background-color: #FFFFFF;
+}
+
 .st:hover {
     -webkit-transform: translateX(-17px);
     -ms-transform: translateX(-17px);
@@ -1872,9 +1876,8 @@ table {
     -webkit-transition: .3s ease-in;
     -o-transition: .3s ease-in;
     transition: .3s ease-in;
-    background-color: #D4E1FF;
-    color: #376CB5;
-    border: 1px solid #376CB5;
+    background-color: #4767CE;
+    color: #FFFFFF;
 }
 
 .both__cl button {
@@ -1890,8 +1893,8 @@ table {
     -webkit-transition: .3s ease-in;
     -o-transition: .3s ease-in;
     transition: .3s ease-in;
-    background-color: #B5EFFF;
-    color: #0BB783;
+    background-color: #4767CE;
+    color: #FFFFFF;
 }
 
 .chart1 img {
